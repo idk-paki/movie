@@ -1,6 +1,6 @@
 <?php
 
-$connect= mysqli_connect("db4free.net","lex123","lex12345","lex_movie");// fill out database name
+$connect= mysqli_connect("sql12.freesqldatabase.com","sql12772842","s4AZ4yc3Fe","sql12772842");// fill out database name
 
 if(!$connect)
 {
